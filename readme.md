@@ -166,6 +166,6 @@ git push origin new-feature
 
 ## Contact
 
-If you have any questions or feedback, feel free to open an issue or contact me directly at \[[your-email@example.com](laibarustam858@gmail.com)].
+If you have any questions or feedback, feel free to open an issue or contact me directly at \[[(laibarustam858@gmail.com)].
 
 
